@@ -1,4 +1,4 @@
-## Hi there 👋
+## Godbye tlf 👋
 
 <!--
 **4xbett-afk/4xbett-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
